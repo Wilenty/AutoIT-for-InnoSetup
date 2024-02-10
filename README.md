@@ -1,3 +1,9 @@
+# AutoIT for InnoSetup
+
+[![Latest Version](https://img.shields.io/github/release/Wilenty/AutoIT-for-InnoSetup.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/AutoIT-for-InnoSetup/total.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/AutoIT-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/AutoIT-for-InnoSetup/releases/latest)
+
 You can use this source if your program/project is completely free of charge. If you get any income even from donations or ads, please support me.<br>
 <br>
 For the "AutoItX3.Inno.iss" work fully, you need the "AutoItX3.dll", so if you don't have this file yet, you can download it from here: <a href="https://www.autoitscript.com/site/autoit/downloads/" rel="nofollow">https://www.autoitscript.com/site/autoit/downloads/</a><br>
